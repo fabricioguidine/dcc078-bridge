@@ -1,8 +1,8 @@
 package org.example;
 
-public class Clerigo extends Classe{
+public class Druida extends Classe {
 
-    public Clerigo(float valor) {
+    public Druida(float valor) {
         super(valor);
     }
 
