@@ -8,6 +8,6 @@ public class Clerigo extends Classe{
 
     @Override
     public float calcularValor() {
-        return this.valor + this.raca.custoCompra();
+        return this.valor + this.raca.valorCompra();
     }
 }
